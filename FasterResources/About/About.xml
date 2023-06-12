@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <ModMetaData>
-    <name>[NuTry's]Faster Resource Acquirement</name> <!-- This is the name of the mod -->
+    <name>Faster Resource Acquirement</name> <!-- This is the name of the mod -->
     <author>NuTrnity</author> 
-    <packageId>NuTrnity.faster_resource_acquirement</packageId> <!-- It is best to use this format-->
+    <packageId>NuTrnity.FasterResources</packageId> <!-- It is best to use this format-->
     <description>Faster Resource Acquirement in Vanilla!</description> <!-- Be Creative The description is what people will see when they look at your mod -->
     <supportedVersions>
         <li>1.4</li>
