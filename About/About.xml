@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ModMetaData>
+    <name>Faster Resource Acquirement</name> <!-- This is the name of the mod -->
+    <author>NuTrnity</author> 
+    <packageId>NuTrnity.FasterResources</packageId> <!-- It is best to use this format-->
+    <description>Faster Resource Acquirement in Vanilla!</description> <!-- Be Creative The description is what people will see when they look at your mod -->
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions> <!-- This is the version of Rimworld that the mod is compatible with -->
+    <loadBefore>
+    <li>kikohi.BetterGroundPenetratingScanner</li>
+    </loadBefore>
+</ModMetaData> <!-- be sure to close all tags you open -->
