@@ -25,7 +25,7 @@
             <li Class="CompProperties_ScannerMineralsDeep">
                 <scanSpeedStat>ResearchSpeed</scanSpeedStat>
                 <scanFindMtbDays>1</scanFindMtbDays>
-                <scanFindGuaranteedDays>0.4</scanFindGuaranteedDays>
+                <scanFindGuaranteedDays>0.8</scanFindGuaranteedDays>
                 <soundWorking>ScannerGroundPenetrating_Ambience</soundWorking>
             </li>
         </value>
@@ -37,7 +37,7 @@
             <li Class="CompProperties_LongRangeMineralScanner">
                 <scanSpeedStat>ResearchSpeed</scanSpeedStat>
                 <scanFindMtbDays>1</scanFindMtbDays>
-                <scanFindGuaranteedDays>0.4</scanFindGuaranteedDays>
+                <scanFindGuaranteedDays>0.8</scanFindGuaranteedDays>
                 <soundWorking>ScannerLongRangeMineral_Ambience</soundWorking>
             </li>
         </value>
