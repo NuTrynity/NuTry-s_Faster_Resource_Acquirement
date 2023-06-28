@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
+<!--XML is Referenced to nyX and Chefboyjc's Industrial Components-->
   <RecipeDef>
     <defName>Make_ComponentIndustrial_Early</defName>
     <label>make component</label>
