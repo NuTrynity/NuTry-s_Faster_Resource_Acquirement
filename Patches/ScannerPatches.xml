@@ -3,7 +3,7 @@
     <Operation Class="PatchOperationReplace">
         <xpath>Defs/StatDef[defName="DeepDrillingSpeed"]/defaultBaseValue</xpath>
         <value>
-            <defaultBaseValue>7.5</defaultBaseValue>
+            <defaultBaseValue>10</defaultBaseValue>
         </value>
     </Operation>
 
