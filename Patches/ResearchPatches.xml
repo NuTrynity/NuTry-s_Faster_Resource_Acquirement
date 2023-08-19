@@ -7,7 +7,7 @@
             <defName>GroundPenetratingScanner</defName>
             <label>ground-penetrating scanner</label>
             <description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct.</description>
-            <baseCost>500</baseCost>
+            <baseCost>250</baseCost>
             <techLevel>Industrial</techLevel>
             <prerequisites>
                 <li>Electricity</li>
