@@ -33,4 +33,11 @@
             <constructionSkillPrerequisite>0</constructionSkillPrerequisite>
         </value>
     </Operation>
+
+   <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="DeepDrill"]/constructionSkillPrerequisite</xpath>
+        <value>
+            <constructionSkillPrerequisite>0</constructionSkillPrerequisite>
+        </value>
+    </Operation>
 </Patch>
